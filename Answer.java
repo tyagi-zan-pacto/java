@@ -4,7 +4,7 @@
 	}
 	Answer(int marks, String type){	
       this();
-		System.out.println("You got "+marks+" for an "+ type);
+		System.out.println("You got "+marks+" for an "+""+ type);
 	}
 }
 // This is the main class Question
